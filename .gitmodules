@@ -1,0 +1,47 @@
+[submodule "swift"]
+	path = swift
+	url = git@github.com:apple/swift.git
+
+[submodule "clang"]
+	path = clang
+	url = git@github.com:apple/swift-clang.git
+
+[submodule "swift-corelibs-foundation"]
+	path = swift-corelibs-foundation
+	url = git@github.com:apple/swift-corelibs-foundation.git
+
+[submodule "cmark"]
+	path = cmark
+	url = git@github.com:apple/swift-cmark.git
+
+[submodule "swift-corelibs-libdispatch"]
+	path = swift-corelibs-libdispatch
+	url = git@github.com:apple/swift-corelibs-libdispatch.git
+
+[submodule "compiler-rt"]
+	path = compiler-rt
+	url = git@github.com:apple/swift-compiler-rt.git
+
+[submodule "swift-corelibs-xctest"]
+	path = swift-corelibs-xctest
+	url = git@github.com:apple/swift-corelibs-xctest.git
+
+[submodule "llbuild"]
+	path = llbuild
+	url = git@github.com:apple/swift-llbuild.git
+
+[submodule "swift-integration-tests"]
+	path = swift-integration-tests
+	url = git@github.com:apple/swift-integration-tests.git
+
+[submodule "lldb"]
+	path = lldb
+	url = git@github.com:apple/swift-lldb.git
+
+[submodule "swiftpm"]
+	path = swiftpm
+	url = git@github.com:apple/swift-package-manager.git
+
+[submodule "llvm"]
+	path = llvm
+	url = git@github.com:apple/swift-llvm.git

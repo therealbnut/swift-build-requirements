@@ -1,0 +1,11 @@
+osx:
+  config: 'swift/utils/build-script --preset=buildbot_incremental,tools=RA,stdlib=RA'
+  os_version: 10.11.4
+  clang: 7.3.0
+  ninja: 1.7.1
+
+ubuntu_14:
+  os_version: 14.04
+
+ubuntu_15:
+  os_version: 15.10
